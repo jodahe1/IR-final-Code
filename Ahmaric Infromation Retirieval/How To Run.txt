@@ -1,0 +1,13 @@
+1) Open Vs code or any text editor
+2) insatll liverserver extension
+3) Open the index.html file on liveserver
+* takes some times depending on your PC performance 
+
+
+
+Team Members
+1)	Lina Belay
+2)	Meron Eyasu
+3)	Natnael Yohannes
+4)	Tsega Tesfaye
+5)	Yodahe Teshome  
